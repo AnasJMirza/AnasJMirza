@@ -27,7 +27,7 @@
 <br/>
 
 - 🔭 I’m currently working on problem solving skills.
-- 🌱 I’m currently learning Deep FullStack WebDevelopment.
+- 🌱 I’m currently learning FullStack WebDevelopment.
 - 👯 I’m looking to collaborate on Hackathon, projects and community building.
 <!-- - 🤔 I’m looking for help with Containerizing Applications. -->
 - 💬 Ask me about anything, i'll try my best to help :hand:
@@ -37,8 +37,8 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats)-->
 
-<img align="right" alt="GIF" height="300px" src="Dino_non-birthday_version.gif">
-<br/>
+<!-- <img align="right" alt="GIF" height="300px" src="Dino_non-birthday_version.gif">
+<br/> -->
 
 <div align="center">
   <h3>Watch my contribution graph get eaten by snake 🐍</h3>
