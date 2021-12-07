@@ -26,13 +26,18 @@
 
 <h3 align = "center">My Github Stats 🔥</h3>
 
-[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=5)](https://github.com/AnasJMirza/github-readme-stats)
+<p align = "center">
+
+  [![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=5)](https://github.com/AnasJMirza/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnasJMirza&theme=radical)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJMirza&theme=radical)](https://github.com/AnasJMirza/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ask-Subhasmita&layout=compact&langs_count=10)](https://github.com/Ask-Subhasmita/github-readme-stats) -->
+
+</p>
+
 
 <br>
 
