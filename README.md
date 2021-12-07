@@ -21,6 +21,9 @@
 </a> 
 
 <!-- ![Subhasmita's github stats](https://github-readme-stats.vercel.app/api?username=SubhasmitaSw&count_private=true&show_icons=true&hide_border=true&theme=github_dark) -->
+
+[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza)](https://github.com/AnasJMirza/github-readme-stats)
+
 <br/>
 
 <img align="right" alt="GIF" height="300px" src="19Jq.gif">
