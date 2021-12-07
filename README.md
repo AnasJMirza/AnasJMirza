@@ -64,7 +64,7 @@
 
 <br> 
 
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ask-Subhasmita.Ask-Subhasmita) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnasJMirza.AnasJMirza)
 
 
 
