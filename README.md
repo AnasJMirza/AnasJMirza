@@ -26,7 +26,7 @@
 
 <h3 align = "center">My Github Stats</h3>
 
-[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=11)](https://github.com/AnasJMirza/github-readme-stats)
+[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=5)](https://github.com/AnasJMirza/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnasJMirza&theme=radical)](https://git.io/streak-stats)
 
