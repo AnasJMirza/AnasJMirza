@@ -29,7 +29,7 @@
 <br>
 
 <img align="right" alt="GIF" height="200px" src="19Jq.gif">
-<br/>
+
 
 <h4>
 - 🔭 I’m currently working on problem solving skills.<br>
@@ -41,7 +41,7 @@
 - ⚡ Fun fact: I'm a Guitarist, a Singer a Sports lover :alien:<br>
 </h4>
 
-<br><br><br><br>
+<br><br>
 <hr/>
 
 <h3 align = "center">My Github Stats 🔥</h3>
