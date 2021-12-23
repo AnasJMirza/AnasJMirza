@@ -44,9 +44,6 @@
 </p>
 
 
-<br>
-
-
 <img align="right" alt="GIF" height="200px" src="19Jq.gif">
 <br/>
 
