@@ -28,9 +28,14 @@
 
 <p align = "center">
 
-  [![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=5)](https://github.com/AnasJMirza/github-readme-stats)
+  <!-- [![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical&box_width=5)](https://github.com/AnasJMirza/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnasJMirza&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnasJMirza&theme=radical)](https://git.io/streak-stats) -->
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnasJMirza&show_icons=true&theme=radical" />     
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnasJMirza&show_icons=true&theme=radical" />
+     <p/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasJMirza&theme=radical)](https://github.com/AnasJMirza/github-readme-stats) -->
 
