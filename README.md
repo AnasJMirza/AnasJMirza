@@ -50,7 +50,7 @@
 <img align="right" alt="GIF" height="200px" src="19Jq.gif">
 <br/>
 
-<h3>
+<h4>
 - 🔭 I’m currently working on problem solving skills.<br>
 - 🌱 I’m currently learning FullStack WebDevelopment.<br>
 - 👯 I’m looking to collaborate on Hackathon, projects and community building.<br>
@@ -58,7 +58,7 @@
 - 💬 Ask me about anything, i'll try my best to help :hand:<br>
 - 😄 Pronouns: He/His/Him<br>
 - ⚡ Fun fact: I'm a Guitarist, a Singer a Sports lover :alien:<br>
-</h3>
+</h4>
 
 <br/>
 
