@@ -38,7 +38,7 @@
 <!-- - 🤔 I’m looking for help with Containerizing Applications. -->
 - 💬 Ask me about anything, i'll try my best to help :hand:<br>
 - 😄 Pronouns: He/His/Him<br>
-- ⚡ Fun fact: I'm a Guitarist, a Singer a Sports lover :alien:<br>
+- ⚡ Fun fact: I'm a Guitarist, a Singer and a  Sports lover :alien:<br>
 </h4>
 
 <br><br>
