@@ -1,5 +1,6 @@
-### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Anas
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=414&lines=Hi!+I+am+Anas%2C+A+Full-Stack+Developer)](https://git.io/typing-svg)
+<!-- https://readme-typing-svg.herokuapp.com/demo/  --- For changing typing effect in future use this link -->  
+<br/>
 <a href="https://www.linkedin.com/in/anas-j-mirza-541b3721b/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
