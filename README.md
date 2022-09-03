@@ -1,7 +1,7 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Anas
 
-<a href="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://www.linkedin.com/in/anas-j-mirza-541b3721b/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
 </a>
 <a href="https://twitter.com/AnasJMirza">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
