@@ -4,10 +4,10 @@
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
 </a>
 <a href="https://twitter.com/AnasJMirza">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
 <a href="mailto:ajmhimself@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 <br />
 <br />
