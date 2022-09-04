@@ -1,6 +1,6 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Anas
 
-<a href="https://www.linkedin.com/in/anas-j-mirza-541b3721b/">
+<a href="https://www.linkedin.com/in/anasjmirza/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"  />
 </a>
 <a href="https://twitter.com/AnasJMirza">
