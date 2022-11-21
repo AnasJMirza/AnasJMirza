@@ -30,7 +30,9 @@
 <br>
 
 
-<img align="center" alt="GIF" height="360px" width="480px" src="giphy.gif">
+<center>
+  <img align="center" alt="GIF" height="360px" width="480px" src="giphy.gif">
+</center>
 
 
 
