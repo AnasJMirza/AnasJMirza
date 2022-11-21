@@ -29,19 +29,19 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" height="200px" src="giphy.gif">
+<img align="right" alt="GIF" height="360px" width="480px" src="giphy.gif">
 
-<h4>
-- 🔭 I’m currently working on problem solving skills.<br>
-- 🌱 I’m currently learning FullStack WebDevelopment.<br>
-- 👯 I’m looking to collaborate on Hackathon, projects and community building.<br>
-<!-- - 🤔 I’m looking for help with Containerizing Applications. -->
-- 💬 Ask me about anything, i'll try my best to help :hand:<br>
-- 😄 Pronouns: He/His/Him<br>
-- ⚡ Fun fact: I'm a Guitarist, a Singer a Sports lover :alien:<br>
-</h4>
 
-<br><br>
+- 😊 **I'm a teacher by ♥ and programmer by profession**
+- 🔭 **I’m currently working on problem solving skills.**<br>
+- 🌱 **I’m currently learning about Web3 and blockchain.**<br>
+- 👯 **I’m looking to collaborate on Hackathon, projects and community building.**<br>
+- 💬 **Ask me about anything, i'll try my best to help** :hand:<br>
+- ⚡ **Fun fact: I'm a Guitarist, a Singer a Sports lover** :alien:<br>
+
+
+
+<br><br><br><br><br><br><br><br>
 
 <hr/>
 
@@ -80,11 +80,5 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnasJMirza.AnasJMirza)
 
-<<<<<<< HEAD
-=======
 
-
-
-
->>>>>>> ae9ef32001f65fc64988398a18b35a5797854069
 <!-- linkForEditing =  https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
