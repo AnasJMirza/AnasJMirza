@@ -30,9 +30,9 @@
 <br>
 
 
-**I'm a teacher by ♥ and programmer by profession. I like to build amazing UI/UX experiences for humans 🚀. Currently, I'm focused on empowering poeple to learn how to code & change their future 💻.**
+### I'm a teacher by ♥ and programmer by profession. I like to build amazing UI/UX experiences for humans 🚀. Currently, I'm focused on empowering poeple to learn how to code & change their future 💻.
 
-**I'm an open-source enthusiast who is alwas looking to contribute. A life long learner learning and getting better in my skillset day by day.**
+### I'm an open-source enthusiast who is alwas looking to contribute. A life long learner learning and getting better in my skillset day by day. Show some love ♥ by giving some stars✨ on my repos.
 
 <img align="center" alt="GIF" height="360px" width="100%" src="giphy.gif">
 
