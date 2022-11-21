@@ -15,10 +15,9 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a> -->
 
-
 <!-- <a href="https://dev.to/subh117x">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Subhasmita Swain's DEV Profile" height="200" width="200" align="left"> -->
-</a> 
+</a>
 
 ### Technologies I have been working on over the years
 
@@ -30,8 +29,7 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" height="200px" src="19Jq.gif">
-
+<img align="right" alt="GIF" height="200px" src="giphy.gif">
 
 <h4>
 - 🔭 I’m currently working on problem solving skills.<br>
@@ -44,6 +42,7 @@
 </h4>
 
 <br><br>
+
 <hr/>
 
 <h3 align = "center">My Github Stats 🔥</h3>
@@ -65,11 +64,7 @@
 
 </p>
 
-
-
 <br/>
-
-
 
 <!-- <img align="right" alt="GIF" height="300px" src="Dino_non-birthday_version.gif">
 <br/> -->
@@ -81,13 +76,8 @@
   <img src="https://github.com/SubhasmitaSw/SubhasmitaSw/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
-
-<br> 
+<br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnasJMirza.AnasJMirza)
-
-
-
-
 
 <!-- linkForEditing =  https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
