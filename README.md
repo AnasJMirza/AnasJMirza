@@ -30,20 +30,9 @@
 <br>
 
 
-<center>
-  <img align="center" alt="GIF" height="360px" width="100%" src="giphy.gif">
-</center>
+**I'm a teacher by ♥ and programmer by profession. I like to build amazing UI/UX experiences for humans 🚀. Currently, I'm focused on empowering poeple to learn how to code & change their future 💻.**
 
-
-
-- 😊 **I'm a teacher by ♥ and programmer by profession**
-- 🔭 **I’m currently working on problem solving skills.**<br>
-- 🌱 **I’m currently learning about Web3 and blockchain.**<br>
-- 👯 **I’m looking to collaborate on Hackathon, projects and community building.**<br>
-- 💬 **Ask me about anything, i'll try my best to help** :hand:<br>
-- ⚡ **Fun fact: I'm a Guitarist, a Singer a Sports lover** :alien:<br>
-
-
+<img align="center" alt="GIF" height="360px" width="100%" src="giphy.gif">
 
 <br>
 
