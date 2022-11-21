@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<img align="right" alt="GIF" height="360px" width="90%" src="giphy.gif">
+<img align="right" alt="GIF" height="360px" width="40%" src="giphy.gif">
 
 
 - 😊 **I'm a teacher by ♥ and programmer by profession**
