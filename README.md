@@ -31,7 +31,7 @@
 
 
 <center>
-  <img align="center" alt="GIF" height="360px" width="480px" src="giphy.gif">
+  <img align="center" alt="GIF" height="360px" width="100%" src="giphy.gif">
 </center>
 
 
