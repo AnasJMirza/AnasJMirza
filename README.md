@@ -9,7 +9,7 @@
 <a href="mailto:ajmhimself@gmail.com">
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
-<br />
+
 <br />
 <!--<a href="http://dev.to/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -27,7 +27,6 @@
 
 <h3 align = "center">About 👋</h3>
 
-<br>
 
 
 ### I'm a teacher by ♥ and programmer by profession. I like to build amazing UI/UX experiences for humans 🚀. Currently, I'm focused on empowering poeple to learn how to code & change their future 💻.
