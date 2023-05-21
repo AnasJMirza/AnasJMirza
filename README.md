@@ -57,7 +57,7 @@
 <a href="https://twitter.com/anasjmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anasjmirza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anasjmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasjmirza" height="30" width="40" /></a>
 <a href="https://fb.com/anasjmirza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anasjmirza" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmads.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas.codes" height="30" width="40" /></a>
+<a href="https://instagram.com/anas.codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas.codes" height="30" width="40" /></a>
 </p>
 
 
