@@ -39,15 +39,15 @@
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 
-- 🖥️ Software Engineer at [NetixSol](https://www.netixsol.com)
+- 🖥️ Senior Software Engineer at [Dafilabs](https://www.dafilabs.com)
 
 - 🖊️ Teaching **Web and Mobile Application Development**
 
 - 🐱‍💻 Currently learning **Blockchain and WEB3.**
 
-- 👨‍💼 Working on **Nextjs, Nodejs and ReactNative.**
+- 👨‍💼 Working on **Nextjs, Nestjs and Langchain.**
 
-- 💬 Ask me about **JavaScript, ReactNative, Firebase, C++, C, Java, Python, Blockchain, WEB3, Nodejs, Nextjs and Data Structure and Algorithm.**
+- 💬 Ask me about **JavaScript, Typescript, React, Blockchain, WEB3, Nodejs, Nextjs and Data Structure and Algorithm.**
 
 - 📫 How to reach me **ajmhimself@gmail.com**
 
