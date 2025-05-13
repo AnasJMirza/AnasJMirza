@@ -39,7 +39,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 
-- 🖥️ Senior Software Engineer at [Dafilabs](https://www.dafilabs.com)
+- 🖥️ Senior Software Engineer at [Codefinity Solutions](https://www.codefinitysol.com)
 
 - 🖊️ Teaching **Web and Mobile Application Development**
 
